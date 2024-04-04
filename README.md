@@ -1,6 +1,6 @@
 ## Projeto Registro de Manutenções
 
-### Sistema de exemplo de API com testes utilizando o Insomnia
+### Sistema de exemplo de API com Testes utilizando o Insomnia
 
 ### Temas de aprendizado:
 
@@ -10,7 +10,7 @@
 - MVC (NodeJS)
 - Testes (Insomnia)
 
-### Tecnologias	Utilizadas:
+### Tecnologias Utilizadas:
 
 - XAMPP - MySQL MariaDB	Banco de Dados Relacional
 - NodeJS - Framework para construção de APIs
@@ -23,9 +23,9 @@ Necessário ter o ambiente/tecnologias acima instaladas
 
 1. Clonar este repositório
 2. Abrir com VsCode
-3. Instalar o banco de dados
+3. Instalar o Banco de Dados
 4. Abrir o XAMPP e clicar em start no MySQL, ou iniciar o MySQL da maneira que preferir.
-5. Rodar os scripts de criação do Banco de dados e de população com dados de teste.
+5. Rodar os scripts de criação do Banco de Dados e de população com dados de teste.
 ./bd/script.sql
 ./testes/testes.sql
 
